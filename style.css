@@ -1,0 +1,23 @@
+/* Common Css */
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	color: #727272;
+	font-family: 'Work Sans', sans-serif;
+
+}
+h1,h2,h3,h4,h5,h6{
+	color: #131313;
+}
+p{
+	line-height: 26px;
+}
+
+/* -=-=-=- common usage
+color: 	#131313
+		#424242
+		#727272
+		#FF900E
+*/
